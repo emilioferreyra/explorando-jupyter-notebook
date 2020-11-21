@@ -30,6 +30,6 @@ En el mismo encontrará enlaces a los recursos y documentación empleado para la
 ## Contacto
 
 
-* ![]() GitHub: [emilioferreyra](github.com/emilioferreyra)
-* ![]() LinkedIn: [Emilio Ferreyra](https://www.linkedin.com/in/ramonemilioferreyra/)
-* ![]() Twitter: [emiliof_ferreyra](https://twitter.com/Emilio_Ferreyra)
+* GitHub: [emilioferreyra](github.com/emilioferreyra)
+* LinkedIn: [Emilio Ferreyra](https://www.linkedin.com/in/ramonemilioferreyra/)
+* Twitter: [emiliof_ferreyra](https://twitter.com/Emilio_Ferreyra)
