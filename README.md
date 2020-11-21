@@ -8,7 +8,6 @@ En el mismo encontrará enlaces a los recursos y documentación empleado para la
 ![jupyter_logo](img/jupyter_logo-317x303.png)
 
 ## Recursos
----
 
 
 * [Jupyter notebook website](https://jupyter.org/)
@@ -19,7 +18,7 @@ En el mismo encontrará enlaces a los recursos y documentación empleado para la
 
 
 ## Biografías
----
+
 
 * [Guido Van Rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum)
 * [Fernando Perez](https://es.wikipedia.org/wiki/Fernando_Pérez_(programador))
@@ -29,7 +28,7 @@ En el mismo encontrará enlaces a los recursos y documentación empleado para la
 ![emilio-ferreyra-avatar](img/Emilio-317x303.png)
 
 ## Contacto
----
+
 
 * ![]() GitHub: [emilioferreyra](github.com/emilioferreyra)
 * ![]() LinkedIn: [Emilio Ferreyra](https://www.linkedin.com/in/ramonemilioferreyra/)
